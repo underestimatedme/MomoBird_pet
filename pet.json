@@ -1,0 +1,7 @@
+{
+  "displayName": "MomoBird",
+  "description": "彩色 MomoBird 动画宠物",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp",
+  "id": "momobird"
+}
